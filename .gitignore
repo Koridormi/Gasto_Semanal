@@ -1,0 +1,30 @@
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Archivos temporales ---
+*.log
+*.tmp
+*.swp
+*.bak
+
+# --- Configuración de editores ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.code-workspace
+
+# --- Archivos de entorno ---
+.env
+.env.local
+
+# --- Builds genéricos ---
+dist/
+build/
+out/
+
+# --- Dependencias comunes ---
+node_modules/
+vendor/
